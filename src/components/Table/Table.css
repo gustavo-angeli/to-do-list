@@ -1,8 +1,12 @@
 table, th, td {
+    margin-top: 2rem;
     font-size: small;
     padding: 1vmin;
     width: 50vmin;
     border: 1px solid black;
     border-collapse: collapse;
     background-color: rgb(172, 172, 172);
+}
+td {
+    cursor: pointer;
 }
